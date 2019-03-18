@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="twenty_percent_black_overlay">#34000000</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">@*android:color/accent_device_default_light</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
 
